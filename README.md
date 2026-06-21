@@ -51,3 +51,10 @@ In addition to fire and smoke detection, the system can monitor people and vehic
 ## Project Objective
 
 The primary objective of this project is to develop an intelligent AI-based surveillance system capable of detecting fire and smoke incidents at an early stage, helping industries improve safety standards, prevent accidents, and protect human lives and infrastructure.
+
+## Project Screenshots
+<img width="1868" height="775" alt="Screenshot 2026-06-21 111735" src="https://github.com/user-attachments/assets/99f7aaed-b0dd-4dc5-b4b3-222d01befcbb" />
+<img width="1918" height="851" alt="Screenshot 2026-06-21 111823" src="https://github.com/user-attachments/assets/cfd98a2b-89f8-4ac4-84b2-9bc0f38954c4" />
+
+
+
