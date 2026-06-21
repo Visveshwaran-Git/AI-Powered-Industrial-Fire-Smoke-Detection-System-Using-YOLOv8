@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# YOLO Model Weights (large binary files)
+*.pt
+yolov8*.pt
+data/best.pt
+
+# SQLite Database and active logs
+data/*.db
+data/*.db-journal
+
+# Snapshots and Processed uploads (to prevent clogging repository)
+data/snapshots/*
+!data/snapshots/.gitkeep
+static/processed/*
+!static/processed/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
